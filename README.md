@@ -1,0 +1,2 @@
+This program is a bookstore management program written in C++. It allows you to add books and search for them by title or ISBN. The Date structure stores the date a book was added, Person holds customer information, and Book contains book details. BookStore manages the bookstore's name, location, and inventory, providing functions to add and search for books. The main function adds books to the store and searches for them, displaying the results.
+Struct - Data(year, month, day). Person(name.information). Book(title, author, ISBN) Bookstore(storeName, address, inventory) 
